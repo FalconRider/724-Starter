@@ -25,21 +25,11 @@ h1 {
  
 }
 
-/* Calculator after dividing by zero */
-.broken {
-  animation: broken 2s;
-  transform: translate3d(0,-2000px,0);
-  opacity: 0;
-}
-
 #viewer {
   color: #c97874;
   float: left;
   line-height: 3em;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  width: 7.5em;
-  height: 3em;
+  
 }
 
 p {
