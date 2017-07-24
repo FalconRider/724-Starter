@@ -1,11 +1,11 @@
 
 
 body {
-  background-color: orange;
-    color:yello;
-  font: 300 18px/1.6 "Source Sans Pro",sans-serif;
+  background-color: goldenrod;
+  color:blueviolet
+  font: 300 18px/1.6 
   margin: 0;
-  padding: 5em 0 2em;
+  padding: 2em;
   text-align: center;
 }
 
